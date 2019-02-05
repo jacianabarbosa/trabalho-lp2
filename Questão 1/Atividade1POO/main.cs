@@ -2,7 +2,7 @@
 
 namespace Atividade1POO
 {
-    class Program
+    class Main
     {
         public const decimal Juros = 0.6M;
 
