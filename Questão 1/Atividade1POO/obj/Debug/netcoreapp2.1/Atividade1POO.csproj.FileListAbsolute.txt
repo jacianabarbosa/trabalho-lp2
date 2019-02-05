@@ -1,0 +1,44 @@
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.deps.json
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.json
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.dev.json
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfo.cs
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\Vinicius Nunes\source\repos\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.deps.json
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.json
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.dev.json
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfo.cs
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\Vinicius Nunes\Downloads\IFCE\6º Semestre\LINGUAGEM DE PROGRAMAÇÃO II\TrabalhoLP2\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.deps.json
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.json
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.dev.json
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfo.cs
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\barbo\OneDrive\Área de Trabalho\TrabalhoLP2-master\TrabalhoLP2-master\Atividade1POO\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.deps.json
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.json
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.runtimeconfig.dev.json
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1POO.pdb
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csprojAssemblyReference.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.csproj.CoreCompileInputs.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfoInputs.cache
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.AssemblyInfo.cs
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.dll
+C:\Users\barbo\OneDrive\Área de Trabalho\Trabalho-LP2\Questão 1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1POO.pdb
